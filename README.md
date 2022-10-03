@@ -17,14 +17,15 @@ Here are some ideas to get you started:
   [<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/gnubash.svg" />](https://www.gnu.org/) 
   [<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />](https://www.python.org/) 
   [<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" />]
+  [<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />]
   [<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />](https://www.docker.com/) 
   [<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" />](https://www.vagrant.com/) 
-  [<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />](https://www.git.com/) 
+  [<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />](https://git-scm.com/) 
   [<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />](https://www.mysql.com/) 
   [<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" />](https://bitbucket.com/) 
   [<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" />](https://www.terraform.com/) 
-  [<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />]() 
-  [<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />](https://www.kubernetes.com/) 
+  [<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />]
+  [<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />](https://www.kubernetes.io/) 
   [<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />] 
   [<img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" />](https://www.digitalocean.com/) 
   [<img align="left" width="30px"  src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" />](https://www.prometheus.io/) 
