@@ -25,5 +25,9 @@ Here are some ideas to get you started:
   [<img align="left" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />]() 
   [<img align="left" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />](https://www.kubernetes.com/) 
   [<img align="left" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />] 
-  [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ansible.svg" />](https://www.ansible.com/) 
+  [<img align="left" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" />](https://www.digitalocean.com/) 
+  [<img align="left" width="22px" src="[<img align="left" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" />](https://www.prometheus.com/) 
+  [<img align="left" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" />](https://www.grafana.com/) 
+  [<img align="left" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />](https://www.djangoproject.com/) 
+  [<img align="left" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" />](https://www.digitalocean.com/) 
           
