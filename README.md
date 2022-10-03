@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about  Linux, Bash, Python, Docker, Ansible, Vagrant,terraform,
 - 📫 How to reach me: [EMAIL](spacetheplace@hotmail.com)
 - Connect with me :  [LINKEDIN](linkedin.com/in/mourad-lakhtibi-devops)
-<!--
-- Languages and Tools:
- <img align=" left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ansible.svg"/>
--->
+### Languages and Tools:
+ [<img align=" left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ansible.svg" />]
+ 
           
