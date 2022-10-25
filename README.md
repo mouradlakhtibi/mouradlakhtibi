@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
   [<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/gnubash.svg" />](https://www.gnu.org/) 
-  [<img align="left" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />](https://www.python.org/) 
+  [<img align="left" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />](https://www.python.org/) [<img align="left" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" />](https://www.ansible.com/) 
   [<img align="left" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" />](https://www.jenkins.io/)
   [<img align="left" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />](https://about.gitlab.com/)
   [<img align="left" width="40px" src="https://www.sonarqube.org/logos/index/sonarqube-logo.png" />](https://www.sonarqube.org/)
